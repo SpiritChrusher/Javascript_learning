@@ -1,0 +1,62 @@
+*{
+    background-color: honeydew;
+}
+
+button{
+    font: bold;
+    font-size: large;
+    width: 250;
+    height: 70;
+    border: 0.5 in;
+    margin: 10px 10px 10px 10px;
+  color: royalblue;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: wavy;
+
+}
+
+div{
+    text-align: center;
+}
+
+div > input{
+    width: 250;
+    height: 70;
+    float: unset;
+    vertical-align: middle;
+    text-align: center;
+    font-size: medium;
+    color: rosybrown;
+}
+
+
+p {
+
+color: burlywood;
+
+}
+
+#button2 {
+
+   
+    background-color: floralwhite;
+    font: bold;
+    font-size: large;
+    width: 250;
+    height: 70;
+font-family: sans-serif;
+align-content: center;
+}
+
+#h1n1 {
+    text-decoration: underline;
+    text-shadow: ivory;
+    color: crimson;
+}
+
+h3 {
+    text-align: left;
+    color:chocolate;
+    font-weight: bold;
+}
